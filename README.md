@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web3**
 
-- 👨‍💻 All of my projects are available at [https://ankur-gupta.netlify.app/](https://ankur-gupta.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ankur-gupta-iiitv-portfolio.app/](https://ankur-gupta-iiitv-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
